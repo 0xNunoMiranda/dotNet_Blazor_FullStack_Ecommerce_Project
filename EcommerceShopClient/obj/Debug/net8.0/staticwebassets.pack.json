@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\obj\\Debug\\net8.0\\compressed\\7tnb9cl1gx.gz",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\obj\\Debug\\net8.0\\compressed\\7tnb9cl1gx.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceShopClient.styles.css",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceShopClient.styles.css",
       "PackagePath": "staticwebassets\\EcommerceShopClient.styles.css"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\wwwroot\\css\\app.css",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\wwwroot\\favicon.png",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\wwwroot\\icon-192.png",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\repos\\EcommerceShopServer\\EcommerceShopClient\\wwwroot\\index.html",
+      "Id": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
