@@ -1,4 +1,5 @@
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.deps.json
+D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.runtimeconfig.json
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.dll
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.pdb
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
@@ -9,4 +10,19 @@ D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.dll
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\refint\EcommerceShopLibrary.dll
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.pdb
+D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.genruntimeconfig.cache
 D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\ref\EcommerceShopLibrary.dll
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.deps.json
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.runtimeconfig.json
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.dll
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\bin\Debug\net8.0\EcommerceShopLibrary.pdb
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.AssemblyInfoInputs.cache
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.AssemblyInfo.cs
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.csproj.CoreCompileInputs.cache
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.sourcelink.json
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.dll
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\refint\EcommerceShopLibrary.dll
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.pdb
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\EcommerceShopLibrary.genruntimeconfig.cache
+D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopLibrary\obj\Debug\net8.0\ref\EcommerceShopLibrary.dll

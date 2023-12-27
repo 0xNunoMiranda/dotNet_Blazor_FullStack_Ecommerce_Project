@@ -5,9 +5,9 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceShopServer", "EcommerceShopServer\EcommerceShopServer.csproj", "{F554CA7E-D3BD-463D-BFF6-2A68A93C5DF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceShopClient", "EcommerceShopClient\EcommerceShopClient.csproj", "{C12CF600-2B2E-4B2F-8FD4-F25CC783B18A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceShopClient", "EcommerceShopClient\EcommerceShopClient.csproj", "{C12CF600-2B2E-4B2F-8FD4-F25CC783B18A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceShopLibrary", "EcommerceShopLibrary\EcommerceShopLibrary.csproj", "{4AC2CC61-321B-45CC-927C-1F519DEEBCE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceShopLibrary", "EcommerceShopLibrary\EcommerceShopLibrary.csproj", "{4AC2CC61-321B-45CC-927C-1F519DEEBCE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

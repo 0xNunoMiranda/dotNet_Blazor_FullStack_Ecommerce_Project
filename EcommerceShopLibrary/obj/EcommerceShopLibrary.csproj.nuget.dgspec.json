@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj": {}
+    "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj": {}
   },
   "projects": {
-    "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj": {
+    "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj",
+        "projectUniqueName": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj",
         "projectName": "EcommerceShopLibrary",
-        "projectPath": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj",
+        "projectPath": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj",
         "packagesPath": "C:\\Users\\Miranda\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\obj\\",
+        "outputPath": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\Miranda\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -31,7 +31,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net8.0": {
@@ -48,6 +49,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

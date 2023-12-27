@@ -4524,11 +4524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\EcommerceShopClient.csproj",
+      "projectUniqueName": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\EcommerceShopClient.csproj",
       "projectName": "EcommerceShopClient",
-      "projectPath": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\EcommerceShopClient.csproj",
+      "projectPath": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\EcommerceShopClient.csproj",
       "packagesPath": "C:\\Users\\Miranda\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\obj\\",
+      "outputPath": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\Miranda\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -4555,8 +4555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj": {
-              "projectPath": "D:\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj"
+            "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj": {
+              "projectPath": "D:\\repos\\dotNet_Blazor_FullStack_Ecommerce_Project\\EcommerceShopLibrary\\EcommerceShopLibrary.csproj"
             }
           }
         }

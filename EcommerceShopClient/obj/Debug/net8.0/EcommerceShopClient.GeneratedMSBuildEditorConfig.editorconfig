@@ -13,31 +13,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = EcommerceShopClient
 build_property.RootNamespace = EcommerceShopClient
-build_property.ProjectDir = D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopClient\
+build_property.ProjectDir = D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopClient\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopClient
+build_property.MSBuildProjectDirectory = D:\repos\dotNet_Blazor_FullStack_Ecommerce_Project\EcommerceShopClient
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/App.razor]
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Pages/Home.razor]
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Pages/BusyButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzeUJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Pages/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/_Imports.razor]
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Layout/MainLayout.razor]
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7shppf3p2l
 
-[D:/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Layout/NavMenu.razor]
+[D:/repos/dotNet_Blazor_FullStack_Ecommerce_Project/EcommerceShopClient/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cd8dayzgwy

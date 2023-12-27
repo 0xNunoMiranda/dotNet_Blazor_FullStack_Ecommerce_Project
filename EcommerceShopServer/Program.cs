@@ -1,3 +1,9 @@
+using EcommerceShopLibrary.Contracts;
+using EcommerceShopServer.Data;
+using EcommerceShopServer.Repositories;
+using Microsoft.EntityFrameworkCore;
+using System.Globalization;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,6 +13,20 @@ builder.Services.AddRazorPages();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
+// Starting
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Default") ??
+        throw new InvalidOperationException("Connection string not found")
+        );
+});
+builder.Services.AddScoped<IProduct, ProductRepository>();
+
+// Ending
+
+
 
 var app = builder.Build();
 
